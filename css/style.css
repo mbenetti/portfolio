@@ -3491,7 +3491,7 @@ h6 {
   margin: 0px 20px;
 }
 
-.customer-logos {
+.logo-carousel {
   overflow: inherit;
   border-top: 1px solid #353535;
   border-bottom: 1px solid #353535;
@@ -3517,10 +3517,6 @@ h6 {
 
 .slick-loading .slick-track {
   visibility: hidden;
-}
-
-.slick-slide.slick-loading img {
-  display: none;
 }
 
 .slick-slide.dragging img {
@@ -3572,9 +3568,10 @@ body {
 }  
 
 /* JsFiddle Example only/don't use */
-.customer-logos {
+.logo-carousel {
   margin-top: 32px;
 }
+
 /* --------------------------------------------------------------------------------------------*/
 /* End About Area css
 ============================================================================================ */
